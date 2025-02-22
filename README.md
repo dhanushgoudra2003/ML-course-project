@@ -1,5 +1,5 @@
 This is a ML couse project titled Optimzing DNN's for edge device deployment using Unstructured Pruning.
-This project mainly focuses on improving model's accuracy and reducing the model size while maintaining optimum efficiency
+This project mainly focuses on improving model's accuracy and reducing the model size while maintaining optimum efficiency.The model was trained on the AHE(Architectural Heritage Elements) dataset.
 
 
 Methodology :
